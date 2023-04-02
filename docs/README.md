@@ -13,7 +13,7 @@ tagline: Not necessarily outstanding, but diffrent.
 #   borderRadius: '1rem',
 # }
 
-bgImage: /background2.png
+bgImage: background2.png
 bgImageStyle: {
   height: '400px',
   z-index: '-10',
