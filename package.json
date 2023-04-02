@@ -1,0 +1,21 @@
+{
+  "name": "BigOrange",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "1.9.7",
+    "vuepress-plugin-auto-sidebar": "^2.3.2",
+    "vuepress-plugin-nuggets-style-copy": "^1.0.3",
+    "vuepress-plugin-sakura": "^1.2.1",
+    "vuepress-theme-reco": "1.6.17"
+  },
+  "description": "菜鸟学习ing",
+  "dependencies": {
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
+    "vuepress-plugin-code-copy": "^1.0.6"
+  }
+}
