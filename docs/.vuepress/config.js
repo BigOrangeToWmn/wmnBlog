@@ -1,5 +1,4 @@
 module.exports = {
-  "dest":"public",
   "title": "BigOrange",
   "description": "菜鸟学习ing",
   "dest": "public",
