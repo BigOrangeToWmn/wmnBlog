@@ -25,6 +25,7 @@ URL的组成部分：
 请求——处理——响应
 
 ![Untitled](../../.vuepress/public/071501/ajax1.png)
+![Untitled]()
 
 数据是网页的灵魂
 
