@@ -32,16 +32,16 @@ module.exports = {
         "items": [
           {
             "text": "vuepress-reco",
-            "link": "/docs/theme-reco/"
+            "link": "/docs/views/其他/api.md"
           },
-          {
-            "text": "H5C3八股文",
-            "link": "/docs/H5C3/H5C3_1.md"
-          },
-          {
-            "text": "JS相关八股文",
-            "link": "/docs/JS相关八股文/JS_1.md"
-          },
+          // {
+          //   "text": "H5C3八股文",
+          //   "link": "/docs/H5C3/H5C3_1.md"
+          // },
+          // {
+          //   "text": "JS相关八股文",
+          //   "link": "/docs/JS相关八股文/JS_1.md"
+          // },
         
         ]
       },
